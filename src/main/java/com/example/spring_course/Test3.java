@@ -13,6 +13,6 @@ public class Test3 {
         person.calllYourPet();
         System.out.println(person.getAge());
         System.out.println(person.getSurname());
-
+        System.out.println("test git");
     }
 }
